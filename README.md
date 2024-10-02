@@ -5,7 +5,6 @@ This project aims to build a **3D Convolutional Neural Network (Conv3D)** capabl
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
