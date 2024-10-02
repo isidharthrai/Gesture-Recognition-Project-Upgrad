@@ -105,4 +105,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Code by [https://github.com/isidharthrai](https://github.com/isidharthrai)
-```
