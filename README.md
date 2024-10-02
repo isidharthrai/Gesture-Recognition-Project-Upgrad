@@ -29,23 +29,11 @@ The dataset contains video sequences of individuals performing five distinct ges
 - Each gesture is represented by a folder, and each folder contains multiple videos representing that gesture.
 - The videos need to be preprocessed into frames for model input.
 
-## Project Structure
-```
-Gesture_Recognition/
-│
-├── data/                    # Folder containing gesture videos
-├── models/                  # Folder containing saved models after training
-├── Gesture_Recognition.ipynb # Jupyter notebook with full code implementation
-├── README.md                # Project documentation
-├── requirements.txt         # Required libraries and dependencies
-└── results/                 # Folder to save model predictions and evaluation results
-```
-
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Gesture_Recognition.git
-   cd Gesture_Recognition
+   git clone https://github.com/isidharthrai/Gesture-Recognition-Project-Upgrad.git
+   cd Gesture-Recognition-Project-Upgrad
    ```
 
 2. **Install dependencies:**
